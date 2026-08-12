@@ -1,0 +1,4 @@
+[submodule "sdk"]
+	path = sdk
+	url = https://github.com/pocketbook/SDK_6.3.0.git
+	branch = 6.5

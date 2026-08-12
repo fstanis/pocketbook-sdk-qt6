@@ -1,0 +1,17 @@
+# Build output
+/build/
+/build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeUserPresets.json
+compile_commands.json
+
+# Editors / OS
+.cache/
+.vscode/
+.idea/
+.DS_Store
+*.swp

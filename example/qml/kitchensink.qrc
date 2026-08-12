@@ -1,0 +1,17 @@
+<!-- Only this app's QML; com.pocketbook.controls is resolved on the device, from /ebrmain/qml. -->
+<RCC>
+  <qresource prefix="/">
+    <file>qmldir</file>
+    <file>main.qml</file>
+    <file>Design.qml</file>
+    <file>DemoSection.qml</file>
+    <file>TypographySection.qml</file>
+    <file>ButtonsSection.qml</file>
+    <file>SelectionSection.qml</file>
+    <file>TextInputSection.qml</file>
+    <file>IndicatorsSection.qml</file>
+    <file>DecorationSection.qml</file>
+    <file>DialogsSection.qml</file>
+    <file>DeviceSection.qml</file>
+  </qresource>
+</RCC>
